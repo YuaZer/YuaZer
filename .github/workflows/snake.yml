@@ -1,0 +1,31 @@
+name: 生成贡献贪吃蛇
+
+on:
+  schedule:
+    - cron: "37 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - name: 生成浅色与深色动画
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake/github-contribution-grid-snake.svg
+            snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: 提交生成结果
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add snake
+          if git commit -m "chore: 更新贡献贪吃蛇"; then
+            git push
+          fi

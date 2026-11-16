@@ -7,8 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=600&lines=%E4%B8%BA%E6%B8%B8%E6%88%8F%E5%88%9B%E4%BD%9C%E6%A8%A1%E7%BB%84%E3%80%81%E6%8F%92%E4%BB%B6%E5%92%8C%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7;%E4%B8%BB%E8%A6%81%E4%BD%BF%E7%94%A8+Java+%E4%B8%8E+Kotlin;%E4%B9%9F%E5%9C%A8%E6%8E%A2%E7%B4%A2%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%94%A8%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96" alt="动态介绍" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YuaZer&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=0891b2&style=flat-square" alt="主页访问量" />
-  <a href="https://github.com/YuaZer?tab=followers"><img src="https://img.shields.io/github/followers/YuaZer?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=flat-square&color=0f766e" alt="GitHub 关注者" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YuaZer&label=PROFILE%20VIEWS&color=0891b2&style=flat-square" alt="主页访问量" />&nbsp;👁️
+  <a href="https://github.com/YuaZer?tab=followers"><img src="https://img.shields.io/github/followers/YuaZer?label=FOLLOWERS&style=flat-square&color=0f766e" alt="GitHub 关注者" /></a>
 </p>
 
 </div>
@@ -43,6 +43,14 @@
 <div align="center">
 
 <img width="100%" src="./profile-3d-contrib/profile-gitblock.svg" alt="3D 贡献、活动统计与常用语言" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./snake/github-contribution-grid-snake.svg" />
+  <img width="100%" src="./snake/github-contribution-grid-snake.svg" alt="贡献贪吃蛇动画" />
+</picture>
 
 </div>
 
