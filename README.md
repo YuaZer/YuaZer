@@ -7,8 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=600&lines=%E4%B8%BA%E6%B8%B8%E6%88%8F%E5%88%9B%E4%BD%9C%E6%A8%A1%E7%BB%84%E3%80%81%E6%8F%92%E4%BB%B6%E5%92%8C%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7;%E4%B8%BB%E8%A6%81%E4%BD%BF%E7%94%A8+Java+%E4%B8%8E+Kotlin;%E4%B9%9F%E5%9C%A8%E6%8E%A2%E7%B4%A2%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%94%A8%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96" alt="动态介绍" />
 
 <p>
-  👁️&nbsp;<img src="https://komarev.com/ghpvc/?username=YuaZer&label=%E8%AE%BF%E5%AE%A2%E6%95%B0%E2%80%83%E2%80%83&color=0891b2&style=flat-square" alt="主页访问量" />
-  <a href="https://github.com/YuaZer?tab=followers"><img src="https://img.shields.io/github/followers/YuaZer?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=flat-square&color=0f766e" alt="GitHub 关注者" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YuaZer&label=views&color=2575fc&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/YuaZer?tab=followers"><img src="https://img.shields.io/github/followers/YuaZer?label=followers&style=flat-square&color=6a11cb" alt="GitHub followers" /></a>
+  <a href="mailto:1109132@qq.com"><img src="https://img.shields.io/badge/mail-1109132%40qq.com-00c6ff?style=flat-square" alt="Email 1109132@qq.com" /></a>
 </p>
 
 </div>
