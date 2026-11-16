@@ -42,10 +42,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/YuaZer/YuaZer/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D 贡献活动图" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=YuaZer&show_icons=true&hide_border=true&rank_icon=github&theme=default" height="165" alt="GitHub 贡献统计" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuaZer&layout=donut&hide_border=true&theme=default&hide=HTML,CSS,Shell,PowerShell" height="165" alt="常用语言占比" />
+<img width="100%" src="./profile-3d-contrib/profile-gitblock.svg" alt="3D 贡献、活动统计与常用语言" />
 
 </div>
 
