@@ -1,0 +1,56 @@
+<div align="center">
+
+<a href="https://github.com/YuaZer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0891b2,100:2563eb&height=180&section=header&text=YuaZer&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Minecraft%E6%A8%A1%E7%BB%84%E4%B8%8E%E6%8F%92%E4%BB%B6%20%C2%B7%20%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%94%A8%20%C2%B7%20%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7&descSize=17&descAlignY=58&animation=fadeIn" alt="YuaZer" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=600&lines=%E4%B8%BA%E6%B8%B8%E6%88%8F%E5%88%9B%E4%BD%9C%E6%A8%A1%E7%BB%84%E3%80%81%E6%8F%92%E4%BB%B6%E5%92%8C%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7;%E4%B8%BB%E8%A6%81%E4%BD%BF%E7%94%A8+Java+%E4%B8%8E+Kotlin;%E4%B9%9F%E5%9C%A8%E6%8E%A2%E7%B4%A2%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%94%A8%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96" alt="动态介绍" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YuaZer&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=0891b2&style=flat-square" alt="主页访问量" />
+  <a href="https://github.com/YuaZer?tab=followers"><img src="https://img.shields.io/github/followers/YuaZer?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=flat-square&color=0f766e" alt="GitHub 关注者" /></a>
+</p>
+
+</div>
+
+### 你好，我是 YuaZer
+
+我主要从事 Minecraft 模组与插件开发，也会制作跨平台应用和自动化工具，喜欢把想法做成能实际使用的项目。
+
+- 🎮 Minecraft 模组与插件开发
+- 📱 跨平台应用开发
+- 🤖 自动化工具与 AI 应用探索
+
+### 项目展示
+
+| 项目 | 简介 | 技术栈 |
+| --- | --- | --- |
+| [MagicRender](https://github.com/YuaZer/MagicRender) | 为 Minecraft 添加支持自定义运动轨迹的特效渲染能力 | Kotlin · JavaScript |
+| [CobbleHunt](https://github.com/YuaZer/CobbleHunt) | 高度可配置的 Minecraft 任务插件 | Kotlin |
+| [QLCustomSpawn](https://github.com/YuaZer/QLCustomSpawn-1.21.1) | 支持权重与自定义配置的生物刷新插件 | Kotlin |
+
+### 技术栈
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,typescript,javascript,python,go,html,css,git,github&theme=light" height="42" alt="编程语言与工具" />
+</p>
+
+**主要使用：** Kotlin · Java · Dart / Flutter  
+**也有涉猎：** TypeScript · JavaScript · Python · Go · C#
+
+### 贡献与常用语言
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/YuaZer/YuaZer/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D 贡献活动图" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YuaZer&show_icons=true&hide_border=true&rank_icon=github&theme=default" height="165" alt="GitHub 贡献统计" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuaZer&layout=donut&hide_border=true&theme=default&hide=HTML,CSS,Shell,PowerShell" height="165" alt="常用语言占比" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0891b2,100:0f766e&height=90&section=footer" alt="" />
+
+</div>
